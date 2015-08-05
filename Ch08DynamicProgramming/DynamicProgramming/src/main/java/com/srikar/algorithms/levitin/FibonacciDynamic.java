@@ -11,7 +11,7 @@ import java.util.List;
  */
 public class FibonacciDynamic {
 
-    public static long fibonacci(int n) {
+    public static int fibonacci(int n) {
         List<Integer> fibonacciList = new ArrayList<>(n + 1);
         fibonacciList.add(0);
         fibonacciList.add(1);

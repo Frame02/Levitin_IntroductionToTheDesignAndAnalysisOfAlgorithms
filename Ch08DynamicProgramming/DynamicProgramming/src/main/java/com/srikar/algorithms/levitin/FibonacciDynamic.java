@@ -4,7 +4,7 @@ package com.srikar.algorithms.levitin;
  * Hello world!
  *
  */
-public class App 
+public class FibonacciDynamic 
 {
     public static void main( String[] args )
     {
